@@ -6,6 +6,9 @@
 
 Praktikum dilakukan dengan modul praktikum yang sudah disediakan
 
+- File praktikum terdapat pada folder **lab7_php_dasar** dengan nama file **php_dasar.php**.
+- File program sederhana terdapat pada folder **lab7_php_dasar** dengan nama file **program_php.php**.
+
 ## 1. Print
 
 Berikut ada struktur dasar php yang digunakan di dalam html.
