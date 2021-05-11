@@ -138,6 +138,10 @@ Kode berikut adalah hasil yang akan di cetak atau ditampilkan sebagai output yan
 
 ### Output
 
+Output yang ditampilkan sesuai dengan data yang ada pada url browser.
+
+*tanggal sekarang adalah 12/05/2021
+
 ![enter image description here](https://github.com/antonmartinus72/Lab7Web/raw/main/Screenshoot/11.jpg)
 
 ### CSS
